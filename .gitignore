@@ -24,4 +24,7 @@ ipython_config.py
 !.vscode/extensions.json
 *.code-workspace
 
+Python/data/*
+R/data/*
+
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,vscode
